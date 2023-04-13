@@ -1,5 +1,6 @@
 export default {
     openAiKey: process.env.OPENAI_API_KEY,
+    openAiUrl: process.env.OPENAI_API_URL,
     addAllChangesBeforeCommit: true,
     autocommit: true,
     openCommitTextEditor: false,
